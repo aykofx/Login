@@ -88,7 +88,3 @@ README.md       // Project description
 ```
 
 ---
-
-## 📚 License
-
-This project is open source and free to use.
