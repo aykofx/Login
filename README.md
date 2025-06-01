@@ -79,12 +79,3 @@ java Main
 - For real applications, use password hashing and persistent storage (e.g., database).
 
 ---
-
-## 📁 File Structure
-
-```
-Main.java       // Contains the entire login logic
-README.md       // Project description
-```
-
----
